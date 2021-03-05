@@ -1,11 +1,12 @@
 import React from 'react';
-import ParticlesBg  from "particles-bg";
+// Crash Gatsby Build
+// import ParticlesBg  from "particles-bg";
 
 const Header = () => {
 
     return (
       <header id="home">
-      <ParticlesBg color="#ffffff" type="cobweb" bg={true} />
+      {/* <ParticlesBg color="#ffffff" type="cobweb" bg={true} /> */}
       <nav id="nav-wrap">
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
