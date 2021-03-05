@@ -35,6 +35,10 @@ const Resume = () => {
     {
       name: "Firebase",
       level: "85%"
+    },
+    {
+      name: "Flutter",
+      level: "75%"
     }
   ]
   const education = edu.map(education => (
