@@ -1,14 +1,5 @@
 {
   "projects": {
     "default": "kenshi3"
-  },
-  "targets": {
-    "kenshi3": {
-      "hosting": {
-        "kenshi3": [
-          "kenshi"
-        ]
-      }
-    }
   }
 }
