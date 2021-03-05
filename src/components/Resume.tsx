@@ -32,6 +32,10 @@ const Resume = () => {
       name: "Gatsby",
       level: "85%",
     },
+    {
+      name: "Firebase",
+      level: "85%"
+    }
   ]
   const education = edu.map(education => (
     <div key={education.school}>
